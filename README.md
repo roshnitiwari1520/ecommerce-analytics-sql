@@ -1,6 +1,6 @@
 #  E-Commerce Executive Analytics Case Study
 
- **Live Interactive Dashboard:** [Click Here to View Live Application]("https://ecommerce-analytics-sql-oncnpwpqcznfmwedfgky9m.streamlit.app/")
+  **Live Interactive Dashboard:** [Click Here to View Live Application](https://ecommerce-analytics-sql-oncnpwpqcznfmwedfgky9m.streamlit.app/)
 
 ---
 
